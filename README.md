@@ -1,4 +1,8 @@
 # HTML-CV
 https://roadmap.sh/projects/single-page-cv
 
-HTML which creates a CV
+HTML CV
+
+https://roadmap.sh/projects/basic-html-website
+
+HTML website
